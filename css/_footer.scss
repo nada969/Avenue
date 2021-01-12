@@ -1,0 +1,68 @@
+footer{
+    width: 100%; 
+    background-color: #f8f8f8; 
+    color: $primecolor; 
+    .content{
+        width: 60%;
+        margin: auto; 
+        margin-top: 58px; 
+        padding-top: 5vh; 
+        b{
+            text-transform: uppercase;
+        }
+        .card{
+            border: none; 
+            width: 20%; 
+            background: transparent; 
+            margin: auto;
+            a{
+                color: $primecolor;
+            }
+        }
+        .award{ 
+            width: 100%;   
+            color: white; 
+            text-transform: uppercase; 
+            padding: 30px;
+            background-color: rgb( 51, 51, 51 );
+        }
+        .icons{ 
+            width: 100%; 
+            color: white;  
+            padding: 8.6vh; 
+            display: block;
+            background-color: $seccolor; 
+            margin: 10px auto;
+            i{
+                position: relative;
+                color: white;
+                font-size: 26px;
+                top: 50%;
+                transform: translate(0px, -50%);
+                margin-right: 21px;
+            &:hover{
+                color: #ced4da; 
+                cursor: pointer;
+            }    
+            }
+        }
+    }
+    nav.navbar{ 
+        background-color: rgb( 51, 51, 51 );  
+        margin-top: 10vh; 
+        color: $primecolor;
+        a.navbar-brand ,a.nav-link{
+            color: $primecolor;
+            &:hover{    
+                color: #a0a0a0;
+            }
+        }
+        .navbar-content{
+            width: 70%; 
+            margin: auto; 
+            display: flex;
+        }
+    }
+}
+
+

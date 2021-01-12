@@ -1,0 +1,85 @@
+@media (min-width: 1367px) and (max-width: 1440px){
+    .right{padding-top: 81px;}
+    .right b{font-size: 28px !important;}
+    .right b.win{font-size: 107px !important;}
+    footer .content .icons{margin: 0 auto 0 17px !important;}      
+} 
+@media (min-width: 1201px) and (max-width: 1366px){
+    .right{padding-top: 81px;}
+    .right b{font-size: 28px !important;}
+    .right b.win{font-size: 107px !important;}
+    footer .content .icons{margin: 0 auto 0 17px !important;}
+} 
+@media (min-width: 1025px) and (max-width: 1200px){
+    .right{padding-top: 81px;}
+    .right b{font-size: 28px !important;}
+    .right b.win{font-size: 107px !important;}
+    footer .content .icons{margin: 0 auto 0 17px !important;} 
+}
+@media (min-width: 993px) and (max-width: 1024px){
+    header.home .home .button { margin-left: 137vh;}
+    .right{padding-top: 81px;}
+    .right b{font-size: 28px !important;}
+    .right b.win{font-size: 107px !important;}
+    footer .content .icons{margin: 0 auto 0 17px !important;}
+    footer .award h1{font-size: 1.5rem !important;}
+    footer .award h2{font-size: 1rem !important;}
+}
+@media (min-width: 769px) and (max-width: 992px){
+    header.home .home .button { margin-left: 104vh;}
+    .right{padding-top: 81px;}
+    footer .content .icons{margin: 0 auto 0 17px !important;}
+    footer .award h1{font-size: 1.5rem !important;}
+    footer .award h2{font-size: 1rem !important;}
+    .collection .single{ height: 60vh !important; }
+    .collection .card-media{margin: 0 auto 5vh !important;}
+}
+@media (min-width: 577px) and (max-width: 768px){    
+    header.home .home .button { margin-left: 100vh;}
+    .right{padding-top: 135px;}
+    footer .content .icons{margin: 0 auto 0 17px !important;}
+    footer .award h1{font-size: 1.5rem !important;}
+    footer .award h2{font-size: 1rem !important;}
+    .collection .single{ height: 60vh !important; }
+    .collection .card-media{margin: 0 auto 5vh !important;}
+} 
+@media (min-width: 426px) and (max-width: 576px) {    
+    header.home .home .button { margin-left: 98vh;}
+    footer .award h1{font-size: 1.5rem !important;}
+    footer .award h2{font-size: 1rem !important;}
+    .collection .single{ height: 60vh !important; }
+    .collection .card-media{margin: 0 auto 5vh !important;}
+}
+@media (min-width: 376px) and (max-width: 425px) {
+    *{font-size: 12px;}
+    .form .content .sign {border-right: none;}
+    header.home .home .button { margin-left: 44vh;}
+    footer .row{display: block; margin: 0%;}
+    footer .row .card{width: 100%;}
+    footer .award h1{font-size: 1.5rem !important;}
+    footer .award h2{font-size: 1rem !important;}
+    .collection .single{ height: 60vh !important; }
+    .collection .card-media{margin: 0 auto 5vh !important;}
+}
+@media (min-width: 321px) and (max-width: 375px){
+    *{font-size: 12px;}
+    .form .content .sign {border-right: none;}
+    header.home .home .button { margin-left: 38vh;}
+    footer .row{display: block; margin: 0%;}
+    footer .row .card{width: 100%;}
+    footer .award h1{font-size: 1.5rem !important;}
+    footer .award h2{font-size: 1rem !important;}
+    .collection .single{ height: 60vh !important; }
+    .collection .card-media{margin: 0 auto 5vh !important;}
+}
+@media (max-width: 320px) {
+    *{font-size: 12px;}
+    .form .content .sign {border-right: none;}
+    header.home .home .button { margin-left: 0;}
+    footer .row{display: block; margin: 0%;}
+    footer .row .card{width: 100%;}
+    footer .award h1{font-size: 1.5rem !important;}
+    footer .award h2{font-size: 1rem !important;}
+    .collection .single{ height: 60vh !important; }
+    .collection .card-media{margin: 0 auto 5vh !important;}
+}
